@@ -34,7 +34,7 @@ const WELCOME = `\
 Welcome! Type 'help' for available commands or 'ls' to explore.`;
 
 function getPrompt(path: string): string {
-  return `visitor@terminal-cv:${displayPath(path)}$`;
+  return `guest@ivan-term:${displayPath(path)}$`;
 }
 
 export default function Terminal() {
