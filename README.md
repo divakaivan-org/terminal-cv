@@ -2,7 +2,7 @@
 
 A terminal-like personal website built with Next.js. Visitors explore your content using familiar Unix commands (`ls`, `cat`, `cd`).
 
-![example-terminal-cv](https://github.com/user-attachments/assets/4be87f27-913a-473f-9b01-b56417932a1c)
+![example-terminal-cv](https://github.com/user-attachments/assets/182a8cac-8a3c-442d-a187-fada6ac0fe24)
 
 ## Features
 
